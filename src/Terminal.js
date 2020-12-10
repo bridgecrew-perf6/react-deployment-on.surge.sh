@@ -13,8 +13,8 @@ function Terminal() {
         <li> <span className="text-yellow-500"> → </span> git remote add origin https://github.com/user/repo.git</li>
         <li className="text-gray-500 text-sm mt-3"> # Add or modify components </li>
         <li className="text-gray-500 text-sm mb-3"> # Create SURGE_TOKEN and SURGE_DOMAIN in repository secrets </li>
-        <li> <span className="text-yellow-500 font-semibold"> → </span> git add . </li>
-        <li> <span className="text-yellow-500 font-semibold"> → </span> git commit -m "Initial Commit" </li>
+        <li> <span className="text-yellow-500"> → </span> git add . </li>
+        <li> <span className="text-yellow-500"> → </span> git commit -m "Initial Commit" </li>
         <li> <span className="text-yellow-500 font-semibold"> → </span> git push -u origin master </li>
       </ul>
     </div>
