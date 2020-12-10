@@ -11,7 +11,7 @@ function Terminal() {
         <li> <span className="text-yellow-500"> → </span> cd static-deployment-on.surge.sh </li>
         <li> <span className="text-yellow-500"> → </span> rm -rf .git </li>
         <li> <span className="text-yellow-500"> → </span> git remote add origin https://github.com/user/repo.git</li>
-        <li className="text-gray-500 text-sm mt-3"> # Change or add the some components </li>
+        <li className="text-gray-500 text-sm mt-3"> # Change or add some components </li>
         <li className="text-gray-500 text-sm mb-3"> # Create SURGE_TOKEN and SURGE_DOMAIN in repository secrets </li>
         <li> <span className="text-yellow-500 font-semibold"> → </span> git add . </li>
         <li> <span className="text-yellow-500 font-semibold"> → </span> git commit -m "Initial Commit" </li>
