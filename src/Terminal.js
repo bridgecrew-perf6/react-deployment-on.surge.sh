@@ -7,8 +7,8 @@ function Terminal() {
         <div className="h-2 w-2 rounded-full bg-green-500"></div>
       </div>
       <ul className="text-gray-300 leading-relaxed">
-        <li> <span className="text-yellow-500"> → </span> git clone https://github.com/naimul-haque/static-deployment-on.surge.sh.git </li>
-        <li> <span className="text-yellow-500"> → </span> cd static-deployment-on.surge.sh </li>
+        <li> <span className="text-yellow-500"> → </span> git clone https://github.com/naimul-haque/react-deployment-on.surge.sh.git </li>
+        <li> <span className="text-yellow-500"> → </span> cd react-deployment-on.surge.sh </li>
         <li> <span className="text-yellow-500"> → </span> rm -rf .git </li>
         <li> <span className="text-yellow-500"> → </span> git remote add origin https://github.com/user/repo.git</li>
         <li className="text-gray-500 text-sm mt-3"> # Add or modify components </li>
