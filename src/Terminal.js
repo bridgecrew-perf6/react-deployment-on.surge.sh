@@ -15,7 +15,8 @@ function Terminal() {
         <li className="text-gray-500 text-sm mb-3"> # Create SURGE_TOKEN and SURGE_DOMAIN in repository secrets </li>
         <li> <span className="text-yellow-500"> → </span> git add . </li>
         <li> <span className="text-yellow-500"> → </span> git commit -m "Initial Commit" </li>
-        <li> <span className="text-yellow-500 font-semibold"> → </span> git push -u origin master </li>
+        <li> <span class="text-yellow-500"> → </span> git branch -M main </li>
+        <li> <span className="text-yellow-500 font-semibold"> → </span> git push -u origin main </li>
       </ul>
     </div>
   );
